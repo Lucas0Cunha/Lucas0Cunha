@@ -3,8 +3,6 @@
 :round_pushpin: Localizado em Santos/São Paulo-SP
 </br>
 
-Sou um desenvolvedor iniciante e desejo trazer projetos que possam me animar como profissional e também me desenvolver como mesmo.
-
       💻 Desenvolvedor Java: Estou mergulhado no mundo da programação e desenvolvendo aplicações robustas em Java,
       estou amando cada momento de evolução e aprendizado.
 
